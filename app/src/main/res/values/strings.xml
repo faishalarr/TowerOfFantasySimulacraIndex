@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">TowerOfFantasyIndex</string>
+    <string name="simulacra_name">Nama Simulacra</string>
+    <string name="detail">Detail</string>
+    <string name="rarity">SSR / SR</string>
+    <string name="Element">Element</string>
+    <string name="Charge">Charge</string>
+    <string name="Shatter">Shatter</string>
+    <string name="Resonance">Resonance</string>
+    <string name="ex_Resonance">DPS</string>
+    <string name="ex_Shatter">0.0</string>
+    <string name="ex_Charge">0.0</string>
+    <string name="ex_element">Volt</string>
+    <string name="Substat">Substat</string>
+    <string name="ex_substat">Attack\nHP\nCrit</string>
+    <string name="Simulacra_Attribute">Simulacra Attribute</string>
+    <string name="weapon_resonance">Weapon Resonance</string>
+    <string name="ex_weapon_resonance">When the weapon is fully charged, the next attack will paralyze targets for 1 second and electrify them for 6 seconds, negating all buffs and dealing damage equal to 144.00% of ATK. Targets can\'t receive any buffs for the next 6 seconds.</string>
+    <string name="weapon_name">Guren Blade</string>
+    <string name="about">about</string>
+    <string name="namaku">Muhammad Faishal Arrafi</string>
+    <string name="emailku">arrafi.faishal@gmail.com</string>
+
 </resources>
